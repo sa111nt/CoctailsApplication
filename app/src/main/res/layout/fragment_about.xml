@@ -1,0 +1,10 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="This app was created by Tsimafei Kotski, a 3rd-year student of Poznań University of Technology, majoring in Computer Science. The project was developed for educational purposes as part of the Mobile Aplications course."
+        android:textSize="20sp"/>
+</ScrollView>
